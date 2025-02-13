@@ -5,7 +5,7 @@
 
 
 
-😁 I'm 20 years old
+😁 I'm 19 years old
 
 💻 I'm a student in computer science
 
