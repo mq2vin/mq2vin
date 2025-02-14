@@ -9,7 +9,7 @@
 
 💻 I'm a student in computer science
 
-👨‍🎓 I love learning in the whole domain
+👨‍🎓 I love learning 
 
 ## 🌐 Socials
 
