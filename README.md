@@ -34,7 +34,6 @@
 
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=mq2vin&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mq2vin&layout=compact&langs_count=8&theme=radical)
 
 
