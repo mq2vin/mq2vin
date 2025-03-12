@@ -1,4 +1,4 @@
-# Salut, moi c'est Marvin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Marvin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ## 💫 About me
@@ -30,12 +30,16 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 📊 Github Stats 
+## 📊 GitHub Stats 
 
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=mq2vin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mq2vin&layout=compact&langs_count=8&theme=radical)
 
+## GitHub Trophies
+
+
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=mq2vin&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mq2vin/mq2vin/output/github-snake-dark.svg" />
