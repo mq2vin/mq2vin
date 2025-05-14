@@ -1,15 +1,12 @@
-# Hi, I'm Marvin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## 💫 About me
+## About me
 
 
-
-😁 I'm 19 years old
-
-💻 I'm a student in computer science
-
-👨‍🎓 I love learning 
+- I'm a student in computer science
+ 
+- I love learning 
 
 ## 🌐 Socials
 
