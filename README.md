@@ -30,12 +30,6 @@ My own website is <a href="https://portfolio-marvin.pages.dev" target="_blank">H
 ![JavaFX](https://img.shields.io/badge/JavaFX-FF7800?style=for-the-badge&logo=java&logoColor=white)
 
 
-
-## 📊 GitHub Stats 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mq2vin&layout=compact&langs_count=8&theme=radical)
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mq2vin/mq2vin/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mq2vin/mq2vin/output/github-snake.svg" />
